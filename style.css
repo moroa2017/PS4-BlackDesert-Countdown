@@ -7,6 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   background: #EEE;
+  margin:0;
 }
 .flip-clock {
   text-align: center;
